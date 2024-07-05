@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Go Builder
-# A small bash script for generate Go EXE files on Linux.
+# A small bash script for generating Go EXE files on Linux.
 # Author - Abhishek Kumar
 
 clear
